@@ -1,0 +1,5 @@
+guiSavedMessage: "&aThe GUI has been successfully saved!"
+guiNewTitleSaved: "&aThe GUI title has successfully been changed!"
+guiRenameInvalidArguments: "&cInvalid Arguments! usage: /grename <name>"
+guiRenameExceededLimit: "&cYou exceeded the maximum inventory title length of 32 characters."
+commandsCooldownMessage: "&cYou're still on cooldown! %timeleft%s"

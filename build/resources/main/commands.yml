@@ -1,0 +1,39 @@
+#Main plugin command, used to open the GUI editor
+guiEditCommand:
+
+
+  #Main command, usage: /geditor
+  mainCommand: "geditor"
+
+
+  #Aliases can be anything or nothing, set to [] to remove aliases, usage: /gedit, /guiedit, /guieditor
+  aliases:
+    - "gedit"
+    - "guiedit"
+    - "guieditor"
+
+
+
+#GUI Rename command, used to edit the GUI title
+guiRenameCommand:
+
+
+  #Set to false to disable the command
+  enabled: true
+
+
+  #Rename command, usage: /grename
+  mainCommand: "grename"
+
+
+  #Aliases can be anything or nothing, set to [] to remove aliases, usage: /guirename, /guiname
+  aliases:
+    - "guirename"
+    - "guiname"
+
+
+  #Sub commands are the commands that come after the main plugin command, usage: /geditor rename, /geditor name, /geditor editname (/geditor being the main plugin command)
+  sub-commands:
+    - "rename"
+    - "name"
+    - "editname"
