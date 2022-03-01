@@ -1,8 +1,0 @@
-#Command cooldowns, in seconds
-commands-Cooldown: 5
-
-#Default inventory title, can be changed using /grename <name> or /geditor rename <name>
-defaultInventoryTitle: "Default Title!"
-
-#Defualt inventory size
-defaultInventorySize: 54
