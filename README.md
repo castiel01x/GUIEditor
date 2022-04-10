@@ -1,0 +1,2 @@
+# GUIEditor
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/747e7c9a10c745759e5c1daba75e4846)](https://app.codacy.com/gh/castiel01x/GUIEditor?utm_source=github.com&utm_medium=referral&utm_content=castiel01x/GUIEditor&utm_campaign=Badge_Grade_Settings)
